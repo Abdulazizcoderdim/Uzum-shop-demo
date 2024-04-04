@@ -1,0 +1,104 @@
+.recom{
+    display: flex;
+    align-items: center;
+}
+
+.recom__container{
+    padding: 50px 5%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.recom__container h1{
+    margin-bottom: 20px;
+}
+
+.recom__models{
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.recom__models button{
+    border: none;
+    outline: none;
+    padding: 20px 200px;
+    background-color: rgb(245, 245, 245); 
+    border-radius: 5px; 
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.recom__models button:hover{
+    background-color: rgb(227, 227, 227);
+}
+
+.recom__img img{
+    border-radius: 12px;
+}
+
+.recom__heart{
+    right: -84%;
+    top: 50%;
+    z-index: 1;
+    font-size: 25px;
+    cursor: pointer;
+    color: rgb(36, 36, 36);
+}
+
+
+.recom__img{
+    margin-bottom: 15px;
+}
+
+.recom__model{
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.recom__model p{
+    color: rgb(84, 84, 84);
+    margin-bottom: 5px;     
+}
+
+.recom__star{
+    color: rgb(146, 146, 146);
+}
+
+.recom__time{
+    color: crimson;
+    margin-bottom: 8px;
+}
+
+.recom__sum{
+    background-color: rgb(255, 255, 49);
+    border-radius: 5px;
+    padding: 2px 7px;
+    width: 145px;
+    margin-bottom: 4px;
+}
+
+.recom__sum-old{
+    color: rgb(116, 116, 116);
+}
+
+.recom__cart-sum{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.recom__main-sum{
+    font-size: 20px;
+    color: rgb(52, 52, 52);
+}
+
+.recom__cart{
+    cursor: pointer;
+}

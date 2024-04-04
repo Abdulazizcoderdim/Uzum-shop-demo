@@ -1,0 +1,118 @@
+.nav{
+    display: flex;
+    align-items: center;
+    align-items: center;
+}
+
+.nav__container{
+    display: flex;
+    padding: 20px 5%;
+    align-items: center;
+    gap: 35px;
+
+}
+.nav__first a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav__first{
+    display: flex;
+    align-items: center;
+}
+
+.nav__first img{
+    cursor: pointer;
+}
+
+.nav__first h2{
+    color: #7000FF;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.nav__two{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav__two p{
+    font-size: 20px;
+}
+
+.nav__catalog{
+    padding: 15.2px 30px;
+    background: rgb(227, 227, 255);
+    border-radius: 5px;
+    color: blue;
+    font-weight: 550;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all .30s ease;
+}
+
+.nav__catalog:hover{
+    transition: all .30s ease;
+    background: rgb(205, 205, 255);
+}
+
+.nav__search{
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 0 0 0 20px; 
+}
+
+.nav__search p{
+    display: flex;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+    padding: 13px 30px;
+    border-radius: 0 5px 5px 0;
+    color: rgb(85, 85, 85);
+    cursor: pointer;
+    transition: all .40s ease;
+}
+
+.nav__search p:hover{
+    background: rgb(214, 214, 214);
+    transition: all .40s ease;
+}
+
+.nav__search input{
+    border: none;
+    outline: none;
+    color: rgb(67, 67, 67);
+    padding: 13px 0;
+    border-radius: 5px;
+    width: 450px;
+}
+
+
+.nav__third{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav__third span{
+    font-size: 17px;
+    color: rgb(95, 95, 95);
+    transition: all .30s ease;
+    cursor: pointer;
+    font-weight: 540;
+}
+
+.nav__third span:hover{
+    transition: all .30s ease;
+    color: rgb(0, 0, 0);
+}
+
+.nav__third p{
+    font-size: 25px;
+}

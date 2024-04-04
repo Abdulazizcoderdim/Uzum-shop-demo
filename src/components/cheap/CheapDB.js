@@ -1,0 +1,58 @@
+export function cheapDb() {
+    return[
+        {
+            id: 1,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+        {
+            id: 2,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+        {
+            id: 3,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+        {
+            id: 4,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+        {
+            id: 5,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+        {
+            id: 6,
+            title: 'Televison TCL 65&ldquo; 4K Led HDR 10+ SMART Google TV P635',
+            cheap__star: '🔷 5.0 (30 otziv)',
+            cheap__time: '🕐 47 s. 16 min',
+            cheap__sum: '726 637 cum/mes',
+            cheap__sumold: '10 726 000 cum/mes',
+            cheap__mainsum: '6 323 123 cum',
+        },
+    ]
+}

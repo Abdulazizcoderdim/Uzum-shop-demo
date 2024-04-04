@@ -1,0 +1,62 @@
+.sidebar{
+    display: flex;
+    align-items: center;
+    background-color: rgb(244, 244, 244);
+}
+
+.sidebar__container{
+    display: flex;
+    padding: 7px 5%;
+    gap: 20px;
+    align-items: center;
+}
+.sidebar__text{
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.sidebar__text span{
+    font-size: 20px;
+}
+
+.sidebar__text a{
+    color: black;
+    font-weight: 540;
+}
+
+.sidebar__third{
+    color: rgb(166, 166, 166);
+    margin: 0 70px;
+}
+
+.sidebar__text-sell{
+    color: rgb(47, 47, 255);
+    font-weight: 540;
+}
+
+.sidebar__text-hover{
+    color: rgb(59, 59, 59);
+    font-weight: 540;
+    cursor: pointer;
+}
+
+.sidebar__text-hover:hover{
+    color: rgb(16, 16, 16);
+    transition: all .30s ease;
+}
+
+.sidebar__hover{
+    cursor: pointer;
+    color: rgb(59, 59, 59);
+}
+
+.sidebar__hover:hover{
+    color: rgb(16, 16, 16);
+    transition: all .30s ease;
+}
+
+.sidebar__language{
+    cursor: pointer;
+    font-weight: 550;
+}

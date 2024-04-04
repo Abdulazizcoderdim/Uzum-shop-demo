@@ -1,0 +1,67 @@
+.electron{
+    padding: 0 3%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.electron h2{
+    color: rgb(56, 56, 56);
+    font-weight: 550;
+    cursor: pointer;
+    transition: all .10s ease;
+}
+
+.electron h2:hover{
+    color: #7000FF;
+    transition: all .10s ease;
+}
+
+.electron h2 span{
+    padding-left: 5px;
+    font-weight: 500;
+}
+
+.electron__container{
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+
+.electron__first{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 305px;
+}
+
+
+.electron__first h3{
+    color: rgb(41, 41, 41);
+    cursor: pointer;
+    transition: all .5s ease;
+}
+
+.electron__first h3:hover{
+    color: #7000FF;
+    transition: all .5s ease;
+}
+
+.electron__pages{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.electron__link{
+    color: rgb(94, 91, 91);
+    text-decoration: none;
+    transition: all .0s ease;
+    flex-wrap: wrap;
+}
+
+.electron__link:hover{
+    color: #7000FF;
+    transition: all .0s ease;
+}
